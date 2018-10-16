@@ -1,0 +1,10 @@
+<resources>
+    <!-- MANIFEST -->
+    <string name="app_name">ThirdPartyApp</string>
+    <string name="title_activity_broadcasts">Broadcast receiver</string>
+
+    <!-- BROADCASTS -->
+    <string name="broadcasts_received">%s from %s!</string>
+    <string name="broadcasts_heading">Received intent:</string>
+    <string name="broadcasts_nothing_yet">Nothing yet!</string>
+</resources>
